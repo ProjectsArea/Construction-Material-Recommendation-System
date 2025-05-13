@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "autoprefixer": "^10.4.21",
+    "bcryptjs": "^3.0.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "postcss": "^8.5.3",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
+    "tailwindcss": "^4.1.6"
+  }
+}
